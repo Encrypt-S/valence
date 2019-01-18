@@ -1,0 +1,84 @@
+User flow
+
+invite users
+Add admin>[public key+name]>[success] | receive notification
+
+new account
+welcome+get started>create new>account name+color>backup later>password+confirm
+
+Import wallet
+Welcome+get started>importe>enter secret>password+confrim>
+
+Get to table
+sidebar>apps>click app
+
+Back up a wallet
+1. welcome+get started>create new>account name+color>backup promopt>write down secret phrase>verify>password+confirm>
+2. welcome+get started>create new>account name+color>backup later>password+confirm>dashbaord prompt baskup
+
+Pre-pay
+dashbaord>pre-pay
+
+Invite all asb users as employee access
+Invite>a group>blockchain
+
+See the transactions of …
+Dashboard side>transaction>filter …
+
+Want to see my invoice
+Profile>billing>invoice
+
+See my info
+proflile>my info
+
+Change my password
+Profile>my info>change my password
+
+
+Transfer ownership
+dashboard>app>app setting>transfer ownership>fee+public key+agree to roll back to a regular user
+
+Change admin access to a table only
+table setting>admin user access level>view only
+table setting>admin user access level>view only
+table setting>admin user access level>view only
+
+change verify user access to a table only
+Table setting>add custom restriction>choose app>choose blockchain+what does it mean>(extrenla Table will appear on dashboard)
+
+Want to see staking
+Dashboard>enable staking(it will start staking and show balances)
+
+see the user/owner/admin or app
+Dashboard>app>users>user list+they access level
+
+See my balance
+Dashboard>piechart
+
+Register public key with email
+
+Sign in
+email+password
+
+Enable 2FA
+profile>setting>enable 2fa
+
+Add new app
+add new app>name>(prompt add new table)
+
+Add new table
+Add table>edit name
+
+Change my table name
+table>table setting>change name
+
+Add new field
+table>add new field>field setting
+
+Get nodejs code for new entry
+app>table(show you all the records)>add new entry>(go to the end of page) fill the columns>show code(which is interactive to your typing)>copy
+
+Get node code for update/ delete
+app>table(show you all the records)>add new entry>(go to the end of page) fill the columns>show code(which is interactive to your typing)>copy
+
+
