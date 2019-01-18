@@ -81,4 +81,40 @@ app>table(show you all the records)>add new entry>(go to the end of page) fill t
 Get node code for update/ delete
 app>table(show you all the records)>add new entry>(go to the end of page) fill the columns>show code(which is interactive to your typing)>copy
 
+learning tips
+cretae app, craete table, create field, add restriction
+
+app demo
+website>todo list app>add todo>demo updated+node code generated
+
+verify user id on app demo
+app demo>todo input>scan qr/public key enter
+
+get the list of blockchain
+
+see the lateset bloocks/transactions
+dashboard>
+
+see latency/cpu/memoery/storage/diskIO
+dashboard
+
+see transaction rate/cost
+dashbaard
+
+see transaction breakdown to task (realis analysis of how popular their apps are)
+dashboard
+
+download valence 
+website>get started download
+
+use exisitng app as tempalates (apps are basicaly public accessable projects)
+new project>discover: exisitn apps online>open+clone>
+
+
+
+--------
+
+feature
+app store as downloadable projects
+
 
