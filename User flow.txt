@@ -1,4 +1,10 @@
-User flow
+what is valence
+
+blockchain database, each table is a blockchain with access conditions, user-friendly
+
+-------------------------------------------------
+
+task flow
 
 invite users
 Add admin>[public key+name]>[success] | receive notification
@@ -80,5 +86,39 @@ app>table(show you all the records)>add new entry>(go to the end of page) fill t
 
 Get node code for update/ delete
 app>table(show you all the records)>add new entry>(go to the end of page) fill the columns>show code(which is interactive to your typing)>copy
+
+
+-------------------------------------------------
+
+
+User test task
+
+can you get the demo and tell me what do you feel about it, can you tell me what do you expect valence to do
+(so we can know if valence give people the right imporession of what it can do)
+
+so the goal is to repicate the demo with valence, it will not be create everything step by step, but we will work through the highlights
+can you set up a valence account
+ok, how do you feel about the set up
+
+have a look at this dashboard, can you tell me what each icon repersents?
+(so we know if using the icon only sidebar is  good idea)
+
+are you clear that you know what each access level means for each user?
+
+create a database now and name it todo list app
+
+anyone can create 
+
+allow todo list creator to complete their todos
+
+allow admin to to modify the the content and completion and delet a todo
+
+allow all asb verifiy customer to modfiy the content and completeiion of any todo task
+
+i add accouting manager mike to be the admin, what would you do
+
+
+
+
 
 
