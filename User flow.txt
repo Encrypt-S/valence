@@ -117,6 +117,17 @@ website>get started download
 use exisitng app as tempalates (apps are basicaly public accessable projects)
 new project>discover: exisitn apps online>open+clone>
 
+~different way to think of access controls
+user
+access control>user setting
+
+admin
+access control>admin setting
+
+
+
+
+
 --------
 
 [auth]
