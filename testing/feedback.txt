@@ -1,0 +1,43 @@
+marcus
+Why need 
+
+
+
+✓New field and [+] icon confused, thought [+] is new field
+✓Doesn’t expect [+] means link
+✓Need to provide both [new table] and [+] because some people think about data structure then relationships, some people are the other way around
+
+
+
+✓create many fields at once
+✓required field is confusing
+✓Icons [三] is not clear that is means view all records, almost thought is about more options
+
+
+
+
+✓explain why I need seed phrase
+✓Data type from user input, why from user input
+
+(Generate table automatically)
+
+how to query from vapp blockchain like sql apply contraints
+	answer ✓ implemented but limited, only allows AND, use default inner join
+Like to see the code the database is generated
+	answer can potentially do
+Why use relationship database, rmdb is hard on blockchain
+todo app as the database doesn't feel real, might be able to understand better with more complex many to many 
+How to test the query if it’s a database, should we build this as part of valence
+It's confused whether valence is not professionals or ameture, for pros, they don't see code exact foreign key and primary key, for ameture, it's not as easy as forms because they need to deal with relations between table
+Still not sure about the use cases
+
+
+
+
+Good
+Task 1 is good just a set up process
+Task 2 is painless, he choose the 
+create overlay guides on creating tables or creating field will be good
+-Why need account and password, for multiple user share the same computer
+SQL server visual
+Woof 
