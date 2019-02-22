@@ -21,16 +21,23 @@ Why need
 
 (Generate table automatically)
 
-how to query from vapp blockchain like sql apply contraints
+how to query from vapp blockchain like sql apply contraintsHow to test the query if it’s a database, should we build this as part of valence
 	answer ✓ implemented but limited, only allows AND, use default inner join
-Like to see the code the database is generated
-	answer can potentially do
-Why use relationship database, rmdb is hard on blockchain
-todo app as the database doesn't feel real, might be able to understand better with more complex many to many 
-How to test the query if it’s a database, should we build this as part of valence
-It's confused whether valence is not professionals or ameture, for pros, they don't see code exact foreign key and primary key, for ameture, it's not as easy as forms because they need to deal with relations between table
-Still not sure about the use cases
 
+Like to see the code the database is generated
+	answer code view, GUI+code
+
+Why use relationship database, rmdb is hard on blockchain
+	permission condition needs relation
+
+todo app as the database doesn't feel real, might be able to understand better with more complex many to many 
+
+
+
+It's confused whether valence is not professionals or ameture, for pros, they don't see code exact foreign key and 
+primary key, for ameture, it's not as easy as forms because they need to deal with relations between table
+
+Still not sure about the use cases
 
 
 
@@ -40,4 +47,16 @@ Task 2 is painless, he choose the
 create overlay guides on creating tables or creating field will be good
 -Why need account and password, for multiple user share the same computer
 SQL server visual
+
+
+
+
+
+Connection, each creaditial for each vapp
+	key
+	user
+	vapp
+	
+
+
 Woof 
