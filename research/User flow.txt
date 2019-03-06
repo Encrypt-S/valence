@@ -1,0 +1,202 @@
+what is valence
+
+blockchain database, each table is a blockchain with access conditions, user-friendly
+
+-------------------------------------------------
+
+task flow
+
+invite users
+Add admin>[public key+name]>[success] | receive notification
+
+new account
+welcome+get started>create new>account name+color>backup later>password+confirm
+
+Import wallet
+Welcome+get started>importe>enter secret>password+confrim>
+
+Get to table
+sidebar>apps>click app
+
+Back up a wallet
+1. welcome+get started>create new>account name+color>backup promopt>write down secret phrase>verify>password+confirm>
+2. welcome+get started>create new>account name+color>backup later>password+confirm>dashbaord prompt baskup
+
+Pre-pay
+dashbaord>pre-pay
+
+Invite all asb users as employee access
+Invite>a group>blockchain
+
+See the transactions of …
+Dashboard side>transaction>filter …
+
+Want to see my invoice
+Profile>billing>invoice
+
+See my info
+proflile>my info
+
+Change my password
+Profile>my info>change my password
+
+
+Transfer ownership
+dashboard>app>app setting>transfer ownership>fee+public key+agree to roll back to a regular user
+
+Change admin access to a table only
+table setting>admin user access level>view only
+table setting>admin user access level>view only
+table setting>admin user access level>view only
+
+change verify user access to a table only
+Table setting>add custom restriction>choose app>choose blockchain+what does it mean>(extrenla Table will appear on dashboard)
+
+Want to see staking
+Dashboard>enable staking(it will start staking and show balances)
+
+see the user/owner/admin or app
+Dashboard>app>users>user list+they access level
+
+See my balance
+Dashboard>piechart
+
+Register public key with email
+
+Sign in
+email+password
+
+Enable 2FA
+profile>setting>enable 2fa
+
+Add new app
+add new app>name>(prompt add new table)
+
+Add new table
+Add table>edit name
+
+Change my table name
+table>table setting>change name
+
+Add new field
+table>add new field>field setting
+
+Get nodejs code for new entry
+app>table(show you all the records)>add new entry>(go to the end of page) fill the columns>show code(which is interactive to your typing)>copy
+
+Get node code for update/ delete
+app>table(show you all the records)>add new entry>(go to the end of page) fill the columns>show code(which is interactive to your typing)>copy
+
+learning tips
+cretae app, craete table, create field, add restriction
+
+app demo: add todo item
+website>todo list app>add todo>demo updated+node code generated
+    
+    app demo: complete todoo item
+
+
+verify user id on app demo
+app demo>todo input>scan qr/public key enter
+
+see the lateset bloocks/transactions
+dashboard>
+
+see latency/cpu/memoery/storage/diskIO
+dashboard
+
+see transaction rate/cost
+dashbaard
+
+see transaction breakdown to task (realis analysis of how popular their apps are)
+dashboard
+
+download valence 
+website>get started download
+
+use exisitng app as tempalates (apps are basicaly public accessable projects)
+new project>discover: exisitn apps online>open+clone>
+
+~different way to think of access controls
+user
+access control>user setting
+
+admin
+access control>admin setting
+
+
+
+
+
+--------
+
+[auth]
+pub_key (#1-#10)+(#11-#15)
+access_level 
+access_table
+
+[asb verifuse user] 
+pub_key (#11-#15)
+name
+
+[todos]
+pub_key (#1-#10)
+tx_id
+todo_title
+
+complete 
+pub_key (#1-#5)
+tx_id
+isCompleted
+
+[delete]
+pub_key ()
+tx_id
+isDeleted
+
+
+
+--------
+
+feature
+app store as downloadable projects
+everyone can view
+everyone can create
+only transaction creator can change
+asb verified cutomer can modify
+root can delete
+
+-------------------------------------------------
+
+
+User test task
+
+can you get the demo and tell me what do you feel about it, can you tell me what do you expect valence to do
+(so we can know if valence give people the right imporession of what it can do)
+
+so the goal is to repicate the demo with valence, it will not be create everything step by step, but we will work through the highlights
+can you set up a valence account
+ok, how do you feel about the set up
+
+have a look at this dashboard, can you tell me what each icon repersents?
+(so we know if using the icon only sidebar is  good idea)
+
+are you clear that you know what each access level means for each user?
+
+create a database now and name it todo list app
+
+anyone can create 
+
+allow todo list creator to complete their todos
+
+allow admin to to modify the the content and completion and delet a todo
+
+allow all asb verifiy customer to modfiy the content and completeiion of any todo task
+
+i add accouting manager mike to be the admin, what would you do
+
+
+
+
+
+
